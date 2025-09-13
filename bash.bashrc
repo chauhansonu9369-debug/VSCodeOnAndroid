@@ -175,5 +175,4 @@ n()
 
 echo -e "\033[34m"
 clear
-
 echo -e "\033[0m"
